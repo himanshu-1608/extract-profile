@@ -1,0 +1,25 @@
+{
+    "name": "extract-profile",
+    "version": "1.0.1",
+    "description": "An npm module to help fetch your resume/portfolio projects",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.test.js",
+        "prepublish": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/himanshu-1608/extract-profile.git"
+    },
+    "keywords": [
+        "npm",
+        "project"
+    ],
+    "author": "Himanshu Yadav",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/himanshu-1608/extract-profile/issues"
+    },
+    "homepage": "https://github.com/himanshu-1608/extract-profile#readme",
+    "dependencies": {}
+}
